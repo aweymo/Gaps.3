@@ -25,7 +25,7 @@
   "informationPanel": {
     "groupByEdgeDirection": false,
     "imageAttribute": false
-    "drawLabels": false
+    "drawLabels" false
   },
   "sigma": {
     "drawingProperties": {
