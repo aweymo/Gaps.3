@@ -21,6 +21,7 @@
     "search": false,
     "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
+   ({drawLabels: false});
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
