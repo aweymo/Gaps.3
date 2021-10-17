@@ -25,7 +25,7 @@
   "informationPanel": {
     "groupByEdgeDirection": false,
     "imageAttribute": false
-    "drawLabels" false
+    "drawLabels": false
   },
   "sigma": {
     "drawingProperties": {
@@ -34,7 +34,7 @@
       "defaultLabelBGColor": "#000000",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000000",
-      "labelThreshold": 0,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
